@@ -1,5 +1,4 @@
 # 更推荐使用miniconda
-**个人建议可以使用**
 ## 创建python虚拟环境
 ``` conda create -n <your-environment-name> python==<python-version> ```
 
